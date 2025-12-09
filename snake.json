@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Snake",
+    "type": 1,
+    "speed": 150,
+    "win_score": 20
+  },
+  "sprites": {
+    "player": "3C3C3C3C3C3C3C3C", 
+    "pickup": "183C7EFF7E3C1800",
+    "wall":   "FFFFFFFFFFFFFFFF",
+    "tail":   "3C3C3C3C3C3C3C3C"
+  },
+  "rules": {
+    "wall_col": "die",
+    "self_col": "die",
+    "pickup_col": "grow"
+  }
+}

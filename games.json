@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Snake",
+    "file": "snake.json"
+  },
+  {
+    "id": 2,
+    "name": "Meteor Dodge",
+    "file": "dodge.json"
+  },
+  {
+    "id": 3,
+    "name": "Labyrinth",
+    "file": "maze.json"
+  }
+]

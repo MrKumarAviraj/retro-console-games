@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Meteor Dodge",
+    "type": 2,
+    "speed": 100,
+    "win_score": 50
+  },
+  "sprites": {
+    "player": "1818245A5A244281",
+    "pickup": "0000000000000000",
+    "wall":   "3C42818181423C00", 
+    "tail":   "0000000000000000"
+  },
+  "rules": {
+    "wall_col": "die",
+    "self_col": "ignore",
+    "pickup_col": "score"
+  }
+}
