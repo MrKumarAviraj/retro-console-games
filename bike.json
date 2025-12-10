@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "title": "Road Rash",
+    "type": 3,
+    "speed": 90,
+    "win_score": 200
+  },
+  "sprites": {
+    // A simple top-down bike shape
+    "player": "183C181818183C18",
+    // Walls will just be solid blocks, defined by renderer
+    "wall":   "FFFFFFFFFFFFFFFF"
+  }
+}
