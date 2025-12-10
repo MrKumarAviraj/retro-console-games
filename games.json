@@ -13,7 +13,7 @@
     "id": 3,
     "name": "Labyrinth",
     "file": "maze.json"
-  }
+  },
   {
     "id": 4,
     "name": "Road Rash",
@@ -21,3 +21,4 @@
   },
 
 ]
+
