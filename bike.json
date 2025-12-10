@@ -2,7 +2,7 @@
   "meta": {
     "title": "Road Rash",
     "type": 3,
-    "speed": 100,
+    "speed": 500,
     "win_score": 200
   },
   "sprites": {
@@ -10,3 +10,4 @@
     "wall": "FFFFFFFFFFFFFFFF"
   }
 }
+
