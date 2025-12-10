@@ -2,7 +2,7 @@
   "meta": {
     "title": "Snake",
     "type": 1,
-    "speed": 150,
+    "speed": 300,
     "win_score": 20
   },
   "sprites": {
@@ -16,4 +16,5 @@
     "self_col": "die",
     "pickup_col": "grow"
   }
+
 }
